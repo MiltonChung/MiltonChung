@@ -1,16 +1,53 @@
-### Hi there 👋
+<img src="https://github.com/MiltonChung/MiltonChung/blob/main/Milton%20Chung.png">
 
-<!--
-**MiltonChung/MiltonChung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"><h2>Hey there! I'm Milton</h2>
 
-Here are some ideas to get you started:
+### 🐬&nbsp;About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓&nbsp;I'm a recent UC Santa Cruz graduate with Bachelors in Computer Science and Cognitive Science \
+💻&nbsp;I also attended and graduated with Honors from Nucamp Coding Bootcamp specializing in Full Stack Web + Mobile Development \
+🎯&nbsp;I'm passionate about frontend development and my goal is to become a proficient full stack engineer 
+
+
+### 🛠&nbsp;Tools and Languages
+<div style='display: flex; align-content: center'/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
+  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
+  <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
+  <img src="https://img.shields.io/badge/-FIgma-black?style=flat-square&logo=figma" alt='figma'> 
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
+</div>
+  
+### ⚙️ &nbsp;GitHub Analytics
+
+<a href="https://github.com/MiltonChung">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+
+### 🤝🏻 &nbsp;Find Me On
+
+<a href="https://miltonchung.com/"><img src="https://img.shields.io/badge/-miltonchung.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miltonchung/"><img src="https://img.shields.io/badge/-Milton%20Chung-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:miltonjchung@gmail.com"><img src="https://img.shields.io/badge/-miltonjchung@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
