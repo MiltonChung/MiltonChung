@@ -4,6 +4,7 @@
 
 ### 🐬&nbsp;About me
 
+💻&nbsp;Currently work at <a href="https://tartle.co/" target='_blank'>TARTLE</a> as a Jr. Software Engineer, making the world a better place \
 🎓&nbsp;I'm a recent UC Santa Cruz graduate with Bachelors in Computer Science and Cognitive Science \
 💻&nbsp;I also attended and graduated with Honors from Nucamp Coding Bootcamp specializing in Full Stack Web + Mobile Development \
 🎯&nbsp;I'm passionate about frontend development and my goal is to become a proficient full stack engineer 
