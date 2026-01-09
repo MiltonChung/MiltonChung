@@ -1,4 +1,4 @@
-<img src="https://github.com/MiltonChung/MiltonChung/blob/main/Milton%20Chung.png">
+<img src="https://github.com/MiltonChung/MiltonChung/blob/main/cover_photo_2026.png">
 
 <img src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"><h2>Hey there! I'm Milton</h2>
 
