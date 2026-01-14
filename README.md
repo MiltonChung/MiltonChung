@@ -20,7 +20,19 @@
   <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=663399" alt='Css'> 
   <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass" alt='Sass'> 
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt='github'> 
-  <img src="https://img.shields.io/badge/-FIgma-black?style=for-the-badge&logo=figma" alt='figma'> 
+  <img src="https://img.shields.io/badge/-FIgma-black?style=for-the-badge&logo=figma" alt='figma'>
+  <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt='Ruby'>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-black?style=for-the-badge&logo=ruby-on-rails&logoColor=red" alt='Ruby on Rails'> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css" alt='Tailwind CSS'>
+  <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue" alt='Jira'>
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman" alt='Postman'>
+  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" alt='Netlify'>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" alt='Vercel'>
+  <img src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs" alt='Next.js'>
+  <img src="  https://img.shields.io/badge/sanity-black?style=for-the-badge&logo=sanity" alt='Sanity'>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt='Python'>
+  <img src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt='Prettier'>
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt='Amazon Web Services'>
 </div>
   
 ### ⚙️ &nbsp;GitHub Analytics
