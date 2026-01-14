@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/sanity-black?style=for-the-badge&logo=sanity" alt='Sanity'>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt='Python'>
   <img src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt='Prettier'>
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt='Amazon Web Services'>
+  <img src="https://img.shields.io/badge/AWS%20Cloud-black?style=for-the-badge&logo=icloud&logoColor=orange" alt='Amazon Web Services'>
 </div>
   
 ### ⚙️ &nbsp;GitHub Analytics
