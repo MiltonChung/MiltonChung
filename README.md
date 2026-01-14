@@ -13,28 +13,31 @@
 
 ### 🛠&nbsp;Tools and Languages
 <div style='display: flex; align-content: center'/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt='typescript'> 
-  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
-  <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'> 
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
-  <img src="https://img.shields.io/badge/-FIgma-black?style=flat-square&logo=figma" alt='figma'> 
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt='React'> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt='Javascript'> 
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" alt='typescript'> 
+  <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5" alt='Html'> 
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=663399" alt='Css'> 
+  <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass" alt='Sass'> 
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt='github'> 
+  <img src="https://img.shields.io/badge/-FIgma-black?style=for-the-badge&logo=figma" alt='figma'> 
 </div>
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div/>
-  <a style="margin-bottom: 1rem" href="https://github.com/MiltonChung">
-    <img src="https://github-readme-stats-sandy-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=pie&langs_count=8&theme=algolia&hide_border=true&border_radius=0&hide=jupyter%20notebook" />
-  </a>
-
-  <a style="margin-bottom: 1rem" href="https://github.com/MiltonChung">
+<div>
+  <a href="https://github.com/MiltonChung">
     <img align="top" src="https://github-readme-stats-sandy-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&border_radius=0" />
   </a>
 </div>
+
+<div>
+  <a href="https://github.com/MiltonChung">
+    <img src="https://github-readme-stats-sandy-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=pie&langs_count=8&theme=algolia&hide_border=true&border_radius=0&hide=jupyter%20notebook" />
+  </a>
+</div>
+
+
 
 
 [![wakatime](https://wakatime.com/badge/user/f19ee649-c2c8-41e0-ae9e-4352f51dcc9c.svg?style=for-the-badge)](https://wakatime.com/@f19ee649-c2c8-41e0-ae9e-4352f51dcc9c)
