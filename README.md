@@ -4,11 +4,12 @@
 
 ### 🐬&nbsp;About me
 
-💻&nbsp;I worked at <a href="https://tartle.co/" target='_blank'>TARTLE</a> as a Software Engineer, making the world a better place \
-🎓&nbsp;I'm a recent UC Santa Cruz graduate with Bachelors in Computer Science and Cognitive Science \
-💻&nbsp;I also attended and graduated with Honors from Nucamp Coding Bootcamp specializing in Full Stack Web + Mobile Development \
-🎯&nbsp;I'm passionate about frontend development and my goal as a developer is to become a proficient full stack engineer \
-☕&nbsp;My future plans are to open my own cafe and build a profitable and successful startup/SaaS
+💼 Former Software Engineer at TARTLE, contributing to production web applications used by a global user base \
+🚀 Frontend-focused engineer using React and TypeScript, with some experience in full-stack development \
+☁️ Actively learning AWS Cloud and working toward the AWS DVA and SAA certifications \
+🎓 UC Santa Cruz graduate with Bachelors in Computer Science and Cognitive Science \
+☕️ Latte art enthusiast with the goal of opening a café in the future \
+🥊 Muay Thai / Kickboxing practitioner
 
 
 ### 🛠&nbsp;Tools and Languages
