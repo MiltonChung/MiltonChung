@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" alt='Netlify'>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" alt='Vercel'>
   <img src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs" alt='Next.js'>
-  <img src="  https://img.shields.io/badge/sanity-black?style=for-the-badge&logo=sanity" alt='Sanity'>
+  <img src="https://img.shields.io/badge/sanity-black?style=for-the-badge&logo=sanity" alt='Sanity'>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt='Python'>
   <img src="https://img.shields.io/badge/prettier-black?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt='Prettier'>
   <img src="https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt='Amazon Web Services'>
