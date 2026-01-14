@@ -27,9 +27,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/MiltonChung">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&commits_year=2025&hide_border=true&border_radius=0"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=0"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miltonchung"/> -->
 </a>
+
 
 [![wakatime](https://wakatime.com/badge/user/f19ee649-c2c8-41e0-ae9e-4352f51dcc9c.svg?style=for-the-badge)](https://wakatime.com/@f19ee649-c2c8-41e0-ae9e-4352f51dcc9c)
 
@@ -39,7 +42,6 @@
 
 <a href="https://miltonchung.com/"><img src="https://img.shields.io/badge/-miltonchung.com-321b8d?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/miltonchung/"><img src="https://img.shields.io/badge/-Milton%20Chung-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:miltonjchung@gmail.com"><img src="https://img.shields.io/badge/-miltonjchung@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 
