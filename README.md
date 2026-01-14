@@ -26,12 +26,18 @@
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/MiltonChung">
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&commits_year=2025&hide_border=true&border_radius=0"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=0"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miltonchung"/> -->
-</a>
+<div style='display: flex;'/>
+  <a href="https://github.com/MiltonChung">
+    <img src="https://github-readme-stats-sandy-theta.vercel.app/api/top-langs/?username=MiltonChung&layout=pie&langs_count=8&theme=algolia&hide_border=true&border_radius=0&hide=jupyter%20notebook" />
+  </a>
+  <a href="https://github.com/MiltonChung">
+    <img align="top" src="https://github-readme-stats-sandy-theta.vercel.app/api?username=MiltonChung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&border_radius=0" />
+  </a>
+</div>
+
+
+
+
 
 
 [![wakatime](https://wakatime.com/badge/user/f19ee649-c2c8-41e0-ae9e-4352f51dcc9c.svg?style=for-the-badge)](https://wakatime.com/@f19ee649-c2c8-41e0-ae9e-4352f51dcc9c)
