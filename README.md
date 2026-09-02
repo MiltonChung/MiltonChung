@@ -13,6 +13,7 @@
 ### 🛠&nbsp;Tools and Languages
 <div style='display: flex; align-content: center'/>
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt='React'> 
+  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=c3002f" alt='Angular'> 
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt='Javascript'> 
   <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" alt='typescript'> 
   <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5" alt='Html'> 
